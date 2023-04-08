@@ -1,4 +1,4 @@
-# database_app
+# Friendify
 
 A new Flutter project.
 
